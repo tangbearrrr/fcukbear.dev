@@ -34,7 +34,7 @@ const members = [
 </script>
 
 
-# Our Team
+## Our Team
 
 Say hello to our awesome friends.
 
