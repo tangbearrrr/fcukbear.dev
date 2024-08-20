@@ -2,6 +2,7 @@ import { defineConfig } from 'vitepress'
 
 // https://vitepress.dev/reference/site-config
 export default defineConfig({
+  base: '/repo/',
   title: "fcukbear.dev",
   description: "a website about software engineering and some \"stupid stuff\"",
   themeConfig: {
@@ -22,6 +23,6 @@ export default defineConfig({
 
     socialLinks: [
       { icon: 'github', link: 'https://github.com/tangbearrrr/fcukbear.dev' }
-    ]
+    ],
   }
 })
