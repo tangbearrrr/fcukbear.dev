@@ -2,7 +2,7 @@ import { defineConfig } from 'vitepress'
 
 // https://vitepress.dev/reference/site-config
 export default defineConfig({
-  base: '/repo/',
+  base: '/fcukbear.dev/',
   title: "fcukbear.dev",
   description: "a website about software engineering and some \"stupid stuff\"",
   themeConfig: {
